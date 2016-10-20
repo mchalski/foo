@@ -3,6 +3,9 @@ package foo
 //comment
 //comment
 //comment
+//comment
+//comment
+//comment
 
 type Foo struct {
 }
